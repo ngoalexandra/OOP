@@ -21,6 +21,9 @@ class bike:
 
 bike1 = bike(0,0,0)
 bike1.ride().ride().ride().reverse().displayInfo().ride()
-      
+
+bike2 = bike(56,3,20)
+bike2.ride().reverse().reverse().displayInfo()
+
     
 
